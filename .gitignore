@@ -1,0 +1,37 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration d'éditeur
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de tests
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Autres
+*.egg-info/
+dist/
+build/ 
+
+.env

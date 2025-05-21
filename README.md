@@ -30,6 +30,12 @@ Ce système permet de gagner énormément de temps de traitement pour l'équipe 
    ```bash
    pip install -r requirements.txt
    ```
+   
+   Les dépendances principales sont :
+   - openai
+   - python-dotenv
+   - requests
+
 3. **Configurez les variables d'environnement**
    - Copiez le fichier `.env.example` en `.env` :
      ```bash
